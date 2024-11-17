@@ -1,0 +1,100 @@
+no,sí,no spam
+no,no,no spam
+no,no,no spam
+no,no,spam
+no,no,no spam
+no,no,spam
+sí,sí,no spam
+no,sí,no spam
+no,sí,spam
+sí,no,no spam
+sí,sí,no spam
+sí,sí,spam
+sí,no,spam
+sí,sí,spam
+no,no,spam
+sí,sí,spam
+no,sí,no spam
+no,no,spam
+no,no,no spam
+sí,sí,no spam
+no,sí,no spam
+sí,sí,spam
+no,sí,no spam
+sí,sí,no spam
+no,sí,no spam
+no,sí,no spam
+sí,no,no spam
+sí,sí,spam
+sí,sí,no spam
+no,no,no spam
+no,no,spam
+sí,no,spam
+sí,sí,no spam
+no,no,no spam
+sí,sí,spam
+sí,no,spam
+sí,sí,no spam
+sí,sí,spam
+sí,no,spam
+sí,no,spam
+sí,sí,spam
+no,no,no spam
+no,no,no spam
+sí,sí,spam
+no,no,no spam
+no,no,spam
+sí,no,no spam
+sí,sí,no spam
+no,no,spam
+sí,no,spam
+sí,no,no spam
+sí,sí,spam
+sí,sí,spam
+sí,no,spam
+sí,no,no spam
+no,no,no spam
+no,no,no spam
+no,no,no spam
+sí,sí,spam
+no,sí,spam
+no,no,no spam
+sí,no,no spam
+no,no,no spam
+no,no,no spam
+no,no,spam
+no,no,no spam
+sí,no,spam
+no,sí,no spam
+sí,no,no spam
+no,sí,no spam
+sí,sí,no spam
+sí,no,spam
+sí,sí,spam
+sí,sí,no spam
+no,sí,spam
+sí,sí,spam
+sí,no,no spam
+sí,sí,spam
+sí,sí,no spam
+no,no,no spam
+sí,no,spam
+no,sí,no spam
+no,no,spam
+sí,sí,spam
+no,no,spam
+no,sí,spam
+sí,no,no spam
+no,no,no spam
+sí,no,spam
+no,no,no spam
+sí,sí,spam
+no,sí,spam
+no,sí,spam
+no,sí,no spam
+sí,no,spam
+no,sí,no spam
+sí,no,no spam
+sí,sí,no spam
+no,no,no spam
+no,sí,no spam
